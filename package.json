@@ -1,8 +1,6 @@
 {
-  "requires": true,
   "name": "test4real",
   "description": "a really cool app",
-  "lockfileVersion": 1,
   "main": "app.js",
   "version": "1.0.0",
   "engines": {
