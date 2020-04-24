@@ -1,7 +1,14 @@
 {
   "requires": true,
+  "name": "test4real",
+  "description": "a really cool app",
   "lockfileVersion": 1,
   "main": "app.js",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.13.0",
+    "npm": "6.12.0"
+  },
   "scripts": {
     "start": "node app.js"
   },
